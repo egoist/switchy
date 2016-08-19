@@ -32,9 +32,9 @@ const chooseFruit = switchy({
   }
 })
 
-cli('apple')
+chooseFruit('apple')
 //=> apple
-cli('watermelon')
+chooseFruit('watermelon')
 //=> no idea what you want
 ```
 
