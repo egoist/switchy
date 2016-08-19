@@ -1,6 +1,6 @@
 {
   "name": "switchy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace `switch` with switchy.",
   "license": "MIT",
   "repository": "egoist/switchy",
