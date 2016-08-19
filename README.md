@@ -1,5 +1,5 @@
 <p align="center">
-  <br>Replace <code>switch</code> with <strong>switchy</strong>. http://chimera.labs.oreilly.com/books/1234000000262/apa.html#dont_use_switch
+  <br>Replace <code>switch</code> with <strong>switchy</strong>. <br>http://chimera.labs.oreilly.com/books/1234000000262/apa.html#dont_use_switch
 </p>
 
 <p align="center">
